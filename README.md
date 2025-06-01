@@ -1,12 +1,35 @@
-# React + Vite
+# Tic-Tac-Toe
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, interactive Tic-Tac-Toe game built with **React** and **Tailwind CSS**. Play against a friend, explore move history, and enjoy a beautiful, responsive UI.
 
-Currently, two official plugins are available:
+[Live Demo](https://tic-tac-toe-game-iota-fawn.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Classic Gameplay:** Play X vs O in a 3x3 grid.
+- **Move History:** Jump to any previous move and replay the game.
+- **Responsive Design:** Looks great on desktop and mobile.
+- **Modern UI:** Styled with Tailwind CSS for a sleek, vibrant look.
+- **Built with React:** Uses functional components and hooks.
+
+
+
+## Scripts
+
+- `npm run dev` – Start development server
+- `npm run build` – Build for production
+- `npm run preview` – Preview production build
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+**Play now:** [https://tic-tac-toe-game-iota-fawn.vercel.app/](https://tic-tac-toe-game-iota-fawn.vercel.app/)
+
+Made with ❤️ using React and Tailwind CSS.
